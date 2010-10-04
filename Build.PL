@@ -20,7 +20,7 @@ my %module_build_args = (
     'Alan Haggai Alavi <alanhaggai@alanhaggai.org>'
   ],
   'dist_name' => 'Net-isoHunt',
-  'dist_version' => '0.102760',
+  'dist_version' => '0.102770',
   'license' => 'perl',
   'module_name' => 'Net::isoHunt',
   'recommends' => {},

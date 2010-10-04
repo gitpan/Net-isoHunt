@@ -1,6 +1,6 @@
 package Net::isoHunt::Response::Item;
 BEGIN {
-  $Net::isoHunt::Response::Item::VERSION = '0.102760';
+  $Net::isoHunt::Response::Item::VERSION = '0.102770';
 }
 
 # ABSTRACT: Provides accessors to item fields
@@ -60,7 +60,7 @@ Net::isoHunt::Response::Item - Provides accessors to item fields
 
 =head1 VERSION
 
-version 0.102760
+version 0.102770
 
 =head1 ATTRIBUTES
 

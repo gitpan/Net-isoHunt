@@ -1,6 +1,6 @@
 package Net::isoHunt::Response;
 BEGIN {
-  $Net::isoHunt::Response::VERSION = '0.102760';
+  $Net::isoHunt::Response::VERSION = '0.102770';
 }
 
 # ABSTRACT: Provides accessors to various response fields
@@ -60,7 +60,7 @@ Net::isoHunt::Response - Provides accessors to various response fields
 
 =head1 VERSION
 
-version 0.102760
+version 0.102770
 
 =head1 ATTRIBUTES
 

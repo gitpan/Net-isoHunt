@@ -31,7 +31,7 @@ my %WriteMakefileArgs = (
     'Moose::Util::TypeConstraints' => '0',
     'URI' => '0'
   },
-  'VERSION' => '0.102760',
+  'VERSION' => '0.102770',
   'test' => {
     'TESTS' => 't/*.t'
   }

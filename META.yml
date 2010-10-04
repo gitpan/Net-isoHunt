@@ -24,4 +24,4 @@ requires:
   URI: 0
 resources:
   repository: git://github.com/alanhaggai/Net-isoHunt.git
-version: 0.102760
+version: 0.102770

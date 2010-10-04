@@ -1,6 +1,6 @@
 package Net::isoHunt;
 BEGIN {
-  $Net::isoHunt::VERSION = '0.102760';
+  $Net::isoHunt::VERSION = '0.102770';
 }
 
 # ABSTRACT: Access isohunt.com from Perl
@@ -33,7 +33,7 @@ Net::isoHunt - Access isohunt.com from Perl
 
 =head1 VERSION
 
-version 0.102760
+version 0.102770
 
 =head1 SYNOPSIS
 

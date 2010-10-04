@@ -1,6 +1,6 @@
 package Net::isoHunt::Request;
 BEGIN {
-  $Net::isoHunt::Request::VERSION = '0.102760';
+  $Net::isoHunt::Request::VERSION = '0.102770';
 }
 
 # ABSTRACT: Populates request fields and executes request
@@ -136,7 +136,7 @@ Net::isoHunt::Request - Populates request fields and executes request
 
 =head1 VERSION
 
-version 0.102760
+version 0.102770
 
 =head1 ATTRIBUTES
 
